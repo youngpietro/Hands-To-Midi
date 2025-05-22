@@ -26,4 +26,3 @@ Other controls:
   • Press 'm' and 'n' to toggle global and right-hand tracking modes.
   • Press 'l' to toggle hand landmarks.
   • Press 'q' to quit.
-  ---------------
